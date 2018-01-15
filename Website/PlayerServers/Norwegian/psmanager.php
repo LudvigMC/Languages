@@ -23,7 +23,7 @@ $language = array(
     'delete_message' => 'Er du sikker på at du vil slette',
     'successfully_updated' => 'Oppdatering vellykket',
 	
-	'confirm_cancel' => 'Er du sikker på at du vil avbryte?',
+	'confirm_cancel' => 'Er du sikker på at du vil avbryte handlingen?',
 	'yes' => 'Ja',
 	'no' => 'Nei',
 
@@ -31,5 +31,5 @@ $language = array(
     'successfully_deleted' => 'Oppdatering vellykket', 
     'only_mvpplus_function' => 'beklager, men du må være MVP+ for å kunne utføre denne handlingen',
     'cant_delete' => 'beklager, men du kan ikke slette denne plugins mappen',
-    'cant_rename_this' => 'Beklager, men du kan ikke endre navnet på plugins mappen',
+    'cant_rename_this' => 'Beklager, men du kan ikke endre navnet på denne konfigurasjons mappen',
 );
